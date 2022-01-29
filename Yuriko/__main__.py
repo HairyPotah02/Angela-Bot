@@ -95,7 +95,6 @@ buttons = [
         InlineKeyboardButton(text="𝐌𝐮𝐬𝐢𝐜", callback_data="yurikorobot_asst"),
         InlineKeyboardButton(
             text="ᴏᴡɴᴇʀ", url="t.me/EngrJuanMala"),
-        ),
     ],
     [
         InlineKeyboardButton(text="𝐀𝐛𝐨𝐮𝐭", callback_data="yurikorobot_"),
