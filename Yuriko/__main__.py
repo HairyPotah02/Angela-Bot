@@ -480,7 +480,7 @@ def yurikorobot_about_callback(update, context):
             f"\n\n✗ `2.) then promote me as admin and give all permissions except anonymous admin.`"
             f"\n\n✗ `3.) Assistant Auto Join to your group:`"
             f"\n\n✗ `4.) turn on the video chat first before start to play music.`"
-            f"\n\n✗ *Lets Enjoy The Waldo Music Bot*"
+            f"\n\n✗ *Lets Enjoy The Waldo Music Bot*",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup(
